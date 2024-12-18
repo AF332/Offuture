@@ -53,4 +53,3 @@ This file contains all SQL queries developed to analyze the dataset. The queries
 
 ## Conclusion
 This project successfully demonstrated the ability to provide accurate and actionable insights through descriptive analytics. By rebuilding trust in data and delivering clear, reliable results, the team established a strong foundation for Offuture’s future analytics initiatives.
----
